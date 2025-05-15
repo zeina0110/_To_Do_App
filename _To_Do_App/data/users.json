@@ -1,0 +1,11 @@
+[
+    {
+        "first_name": "ahmad",
+        "last_name": "sharaf",
+        "email": "ahmad@example.com",
+        "password": "$2b$12$wbukM78h2QL/QLspaQ7CUOoFqWPN5px1vk5ERF5YL0C7qpSGvwMZe",
+        "phone_number": "+201012345678",
+        "is_active": true,
+        "created_at": "2025-04-16 17:03:24"
+    }
+]
